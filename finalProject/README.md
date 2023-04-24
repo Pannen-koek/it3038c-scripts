@@ -6,9 +6,9 @@ Navigate to https://github.com/Pannen-koek/it3038c-scripts/ and click the green 
 
 Once you have installed python and tkinter navigate to the "finalProject" folder within your terminal (**it3038c-scripts/finalProject/**) 
 
-Now within this folder type **python finalProject.py** this will launch a message box where you will input your desired password length and then press the "**Generate Password** button after which a strong password will display in another box. 
+Now within this folder type **python finalProject.py** this will launch a message box where you will input your desired password length and then press the "**Generate Password**" button after which a strong password will display in another box. 
 
-*Intended Output will be a randomized password of desired length that pops up within a message box on your screen 
+*Intended Output will be a randomized password of desired length that displays within the GUI text box when the Generate Password Button is clicked. 
 
 Sources
 https://docs.python.org/3/library/string.html
